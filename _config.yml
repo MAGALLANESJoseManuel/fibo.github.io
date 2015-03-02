@@ -8,12 +8,13 @@ description: My digital copybook
 
 permalink: ./:year/:month/:title
 
-exclude: 
+exclude:
   - Gemfile
   - README.md
   - _projects/_repos
   - _projects/README.md
   - _projects/**/*.yaml
+  - _scripts/*
 
 markdown: kramdown
 kramdown:

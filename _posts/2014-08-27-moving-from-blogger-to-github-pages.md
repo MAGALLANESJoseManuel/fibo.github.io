@@ -104,6 +104,10 @@ var disqus_title      = '{{ page.title }}';
 var disqus_url        = '{{ site.url }}/{{ page.url }}';
 ```
 
+### Testing
+
+One great plus it that Jekyll can be integrated with travis, see [Jekyll's Countinuous Integration page] as a reference.
+
 <!--### Social integration-->
 
 ## See also
@@ -114,4 +118,4 @@ var disqus_url        = '{{ site.url }}/{{ page.url }}';
   [2]: https://help.disqus.com/customer/portal/articles/472097-universal-embed-code "Disqus Universal Embed Code"
   [3]: http://jekyllrb.com/docs/variables/ "Jekyll Variables"
   [4]: https://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables "Disqus JavaScript configuration variables"
-
+  [5]: http://jekyllrb.com/docs/continuous-integration/ "Jekyll Continuous Integration"
